@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Rakesh Pharma Health | Azamgarh Pharmacy</title>
+  <meta name="description" content="Rakesh Pharma Health - Trusted pharmacy in Gandhinagar Colony Lachhirampur Azamgarh. Contact 8318668247 for genuine medicines and health products.">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f5f5f5;
+      color: #333;
+    }
+    header {
+      background-color: #00796B;
+      color: white;
+      text-align: center;
+      padding: 20px;
+    }
+    header img {
+      max-width: 120px;
+      display: block;
+      margin: auto;
+    }
+    header h1 {
+      margin: 10px 0 0 0;
+      font-size: 28px;
+    }
+    .banner {
+      background: url('banner.jpg') center/cover no-repeat;
+      color: white;
+      text-align: center;
+      padding: 60px 20px;
+    }
+    .banner h2 {
+      font-size: 26px;
+      margin: 0;
+      background: rgba(0,121,107,0.6);
+      display: inline-block;
+      padding: 10px 20px;
+      border-radius: 5px;
+    }
+    .container {
+      max-width: 800px;
+      margin: 20px auto;
+      background: white;
+      padding: 20px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h2 {
+      color: #00796B;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    ul li::before {
+      content: "✔️ ";
+      color: #00796B;
+    }
+    .contact p {
+      margin: 5px 0;
+    }
+    iframe {
+      width: 100%;
+      height: 300px;
+      border: none;
+      margin-top: 10px;
+    }
+    footer {
+      background: #00796B;
+      color: white;
+      text-align: center;
+      padding: 10px;
+      margin-top: 20px;
+    }
+    .whatsapp-button {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      background-color: #25D366;
+      color: white;
+      padding: 10px 15px;
+      border-radius: 50px;
+      text-decoration: none;
+      font-weight: bold;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+    }
+    .whatsapp-button:hover {
+      background-color: #128C7E;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <img src="logo.png" alt="Rakesh Pharma Logo"/>
+    <h1>Rakesh Pharma Health</h1>
+    <p>Your Trusted Medical Partner</p>
+  </header>
+
+  <div class="banner">
+    <h2>Your Trusted Medical Partner in Azamgarh</h2>
+  </div>
+
+  <div class="container">
+    <h2>Our Services</h2>
+    <ul>
+      <li>Genuine medicines at best prices</li>
+      <li>Health products and supplements</li>
+      <li>Free health advice</li>
+      <li>Trusted pharmacy since establishment</li>
+    </ul>
+
+    <h2>Contact Us</h2>
+    <div class="contact">
+      <p><strong>Owner:</strong> Rakesh Mishra</p>
+      <p><strong>Phone:</strong> <a href="tel:8318668247">8318668247</a></p>
+      <p><strong>Email:</strong> <a href="mailto:rk371754@gmail.com">rk371754@gmail.com</a></p>
+      <p><strong>Address:</strong> Gandhinagar Colony, Lachhirampur, Azamgarh</p>
+    </div>
+
+    <h2>Find Us Here</h2>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3582.221665820519!2d83.184099!3d26.072300!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3991f464b1b3a6c7%3A0x3a5cf5d9c1a40add!2sGandhinagar%20Colony%2C%20Lachhirampur%2C%20Azamgarh!5e0!3m2!1sen!2sin!4v1623333333333" allowfullscreen="" loading="lazy"></iframe>
+  </div>
+
+  <a class="whatsapp-button" href="https://wa.me/918318668247" target="_blank">WhatsApp Us</a>
+
+  <footer>
+    &copy; 2025 Rakesh Pharma Health | Designed with ❤️
+  </footer>
+
+</body>
+</html>
